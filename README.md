@@ -1,6 +1,10 @@
 🧥 Hoodie Landing Page
 A modern, responsive landing page for showcasing premium hoodie products. Built with semantic HTML5 and beautiful CSS, it features clean layout, modern fonts, and stylish design suitable for fashion or e-commerce brands.
 
+🌍 Live Demo
+[Click here to view the live site] (https://saral1209.github.io/Hoodies-website/)
+
+
 🚀 Features
 
 ✅ Modern Hero Section with image and call-to-action
